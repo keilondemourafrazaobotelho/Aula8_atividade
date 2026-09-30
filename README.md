@@ -1,2 +1,2 @@
 # Aula8 atividade
-- Aula 8 - fiz algumas partes , porque faltei ontem e perdi a explicação dessa aula.
+- Aula08 - Tentei fazer, devido à algumas faltas como nessa terça 29/09, porém fiz algumas partes.
